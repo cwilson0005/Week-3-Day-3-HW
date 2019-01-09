@@ -48,5 +48,9 @@ album1.save()
 album2.save()
 album3.save()
 
+artist1.name = "Laura Pergazelli"
+album1.title = "Soulsearching"
+album1.genre = "blues"
+
 binding.pry
 nil
